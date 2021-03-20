@@ -6,5 +6,5 @@ instant
 ## Installation
 Clone the repo.
 `git clone https://github.com/dogeystamp/dmenu`
-Build dwm.
+Build dmenu.
 `cd dmenu && sudo make install`
